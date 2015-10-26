@@ -3,5 +3,9 @@
 
     <string name="dummy_content">DUMMY\nCONTENT</string>
 
-    <string name="facebook_app_id">1234569xxxxxxxx</string>
+    <string name="facebook_app_id">1234567xxxxxxxxxx</string>
+
+    <string name="google_app_id">1234567xxxxxxxxxx</string>
+
+    <string name="twitter_app_id">1234567xxxxxxxxxx</string>
 </resources>
